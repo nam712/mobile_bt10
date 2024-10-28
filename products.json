@@ -1,0 +1,20 @@
+[
+    {
+      "barcode": "1234567890123",
+      "name": "Lauren's Orange Juice",
+      "price": 3.99,
+      "image": "Orange Juice"
+    },
+    {
+      "barcode": "9876543210987",
+      "name": "Apple Juice",
+      "price": 4.49,
+      "image": "juice"
+    },
+    {
+      "barcode": "5678901234567",
+      "name": "Grape Juice",
+      "price": 5.29,
+      "image": "Grape Juice"
+    }
+  ]
